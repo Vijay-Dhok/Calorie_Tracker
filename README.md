@@ -140,9 +140,37 @@ Day-wise analysis of weight gain/loss trends in kg to correlate with calorie int
 
 **✅ Benefits:**
 Helps users stay on track with macro and calorie goals.
+
 Identifies which meals contribute most to calorie intake.
+
 Tracks weight trends in relation to dietary intake.
+
 Visual insights into top food contributors to macros.
+
+**🚀 Scope for Improvement**
+While the current version is functional and visually appealing, future enhancements could include:
+
+
+
+**Automatic Data Import:**
+
+Integrate APIs (like MyFitnessPal, Google Fit, or manual Excel imports) to automate data entry instead of manual logs.
+
+**Dynamic Goal Setting:**
+
+Allow users to input or adjust macro goals over time and track progress toward changing targets.
+
+**Mobile-Optimized Layout:**
+
+Redesign dashboard layout for better mobile/tablet responsiveness.
+
+**Nutritional Insights/Alerts:**
+
+Generate health tips or alerts when certain thresholds (e.g., excess fat, low protein) are crossed.
+
+**Meal Suggestions:**
+
+Recommend food items to help meet daily macro goals based on gaps identified.
 
 
 
