@@ -10,7 +10,7 @@ A dedicated slicer panel has been added to allow dynamic filtering and explorati
 
 
 
-![image alt]()
+![image alt](https://github.com/Vijay-Dhok/Calorie_Tracker/blob/591a4c917e4eba43b05142e9312d9d508c9ae2cc/Slicer_Panel.png)
 
 
 
