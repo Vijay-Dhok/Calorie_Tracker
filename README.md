@@ -1,6 +1,6 @@
 # Calorie_Tracker DashBoard
 This project is 100% self-made — from collecting and preparing  my own raw data to building data models and designing the final interactive dashboard.
-![image alt](https://github.com/Vijay-Dhok/Mobile_Sales_Dashboard_PBI/blob/0aad21e55cc73e863163c15dfa4eb23144f0a3b7/Dashboard.png)
+![image alt](https://github.com/Vijay-Dhok/Calorie_Tracker/blob/8d93227c65d53e55548e275139d12ce304419bf9/DashBoard%20.png)
 
 🎯 # Objective:
 To track and analyze daily calorie consumption and macro-nutrient intake (Protein, Carbohydrates, Fats) in order to monitor fitness progress, support dietary goals (e.g., bulking or cutting), and improve nutritional habits.
