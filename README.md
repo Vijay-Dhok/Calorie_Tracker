@@ -46,6 +46,7 @@ If your intake line stays near or above the constant line regularly, it indicate
 This acts as a benchmark to easily compare daily intake against the goal.
 🎯 Purpose:
 This visualization helps evaluate whether you're on track, overconsuming, or under-consuming specific macro-nutrients over time.
+
 3]Top 3 Macro Sources per day:
 
 
@@ -56,7 +57,9 @@ This visualization helps evaluate whether you're on track, overconsuming, or und
 
 for e.g.
 Protein: Chicken Breast, Whey Protein, Eggs
+
 Carbs: Banana, Rice, Peanut Butter
+
 Fats: Eggs, Ghee, Oil
 
 4]Percentage Distribution (Donut Chart):
