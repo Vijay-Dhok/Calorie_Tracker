@@ -8,6 +8,15 @@ To track and analyze daily calorie consumption and macro-nutrient intake (Protei
 **Slicer Panel**
 A dedicated slicer panel has been added to allow dynamic filtering and exploration of the data. This enhances interactivity and allows users to focus on specific days, meal types, or macro elements.
 
+
+
+![image alt]()
+
+
+
+
+
+
 **🔘 Interactive Buttons – Enhanced Navigation & Detail Views**
 To make the dashboard more dynamic and user-friendly, I have integrated interactive buttons that allow smooth navigation and on-demand detail views.
 
