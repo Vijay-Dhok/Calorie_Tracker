@@ -69,13 +69,17 @@ This visual system helps you quickly identify which nutrients are on track and w
 
 
 Tracks daily trends of Fat, Protein, and Carbohydrate intake over time in kcal.
+
 **Constant Goal Lines (Reference Lines):**
+
 For each macro-nutrient, a horizontal constant line represents the target/goal value.
 Example: If your protein goal is 162.5g (≈650 kcal), a line is drawn across the chart at that level.
 By comparing daily values to the goal lines, you can see how consistently you hit your nutritional targets.
 If your intake line stays near or above the constant line regularly, it indicates good dietary discipline
 This acts as a benchmark to easily compare daily intake against the goal.
+
 **🎯 Purpose:**
+
 This visualization helps evaluate whether you're on track, overconsuming, or under-consuming specific macro-nutrients over time.
 
 **3]Top 3 Macro Sources per day:**
