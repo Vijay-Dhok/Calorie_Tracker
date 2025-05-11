@@ -31,6 +31,8 @@ Enhances user experience by simulating app-like navigation within Power BI.
 
 🧠 Purpose:
 These buttons create a more interactive and intuitive experience, allowing users to dive deeper into their food log and return without getting lost in multiple visuals.
+
+
 📊 **Key Features**:
 **1]Nutrient Intake KPIs:**
 
