@@ -34,6 +34,7 @@ These buttons create a more interactive and intuitive experience, allowing users
 
 
 📊 **Key Features**:
+
 **1]Nutrient Intake KPIs:**
 
 
@@ -44,12 +45,14 @@ These buttons create a more interactive and intuitive experience, allowing users
 The card displays the actual amount consumed (e.g., Protein Intake: 144.00g) against a target/goal (e.g., Goal: 162.50g).
 
 **Calculate and Display % Difference**
+
 The percentage next to the goal indicates how much the actual intake is above or below the goal.
 Example:
 Protein: −11.38% → means intake is 11.38% below the goal
 Fat: +26.73% → means intake is 26.73% above the goal
 
 **Color Coding for Visual Feedback**
+
 Red Color + Exclamation Mark (!): When the intake is below or above the goal in a way that may be considered undesirable (e.g., under-consuming protein or over-consuming fat).
 Green Color + Check Mark (✓): When the intake is on target or within a healthy margin of the goal.
 
