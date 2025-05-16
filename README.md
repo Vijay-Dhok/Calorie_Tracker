@@ -10,7 +10,7 @@ A dedicated slicer panel has been added to allow dynamic filtering and explorati
 
 
 
-![image alt](https://github.com/Vijay-Dhok/Calorie_Tracker/blob/0b5634fbb199b1c3d7977af22b804080c2fa67a3/slicer_panel.png)                                   ![image alt](https://github.com/Vijay-Dhok/Calorie_Tracker/blob/0b5634fbb199b1c3d7977af22b804080c2fa67a3/slicer_panel_show.png)
+![image alt](https://github.com/Vijay-Dhok/Calorie_Tracker/blob/0b5634fbb199b1c3d7977af22b804080c2fa67a3/slicer_panel.png)                                                                           ![image alt](https://github.com/Vijay-Dhok/Calorie_Tracker/blob/0b5634fbb199b1c3d7977af22b804080c2fa67a3/slicer_panel_show.png)
 
 
 
