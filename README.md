@@ -1,6 +1,6 @@
 # Calorie_Tracker DashBoard
 This project is 100% self-made — from collecting and preparing  my own raw data to building data models and designing the final interactive dashboard.
-![image alt](https://github.com/Vijay-Dhok/Calorie_Tracker/blob/8d93227c65d53e55548e275139d12ce304419bf9/DashBoard%20.png)
+![image alt](https://github.com/Vijay-Dhok/Calorie_Tracker/blob/0b5634fbb199b1c3d7977af22b804080c2fa67a3/dashboard_new_project.png)
 
 🎯 **Objective**:
 To track and analyze daily calorie consumption and macro-nutrient intake (Protein, Carbohydrates, Fats) in order to monitor fitness progress, support dietary goals (e.g., bulking or cutting), and improve nutritional habits.
@@ -10,7 +10,7 @@ A dedicated slicer panel has been added to allow dynamic filtering and explorati
 
 
 
-![image alt](https://github.com/Vijay-Dhok/Calorie_Tracker/blob/591a4c917e4eba43b05142e9312d9d508c9ae2cc/Slicer_Panel.png)
+![image alt](https://github.com/Vijay-Dhok/Calorie_Tracker/blob/0b5634fbb199b1c3d7977af22b804080c2fa67a3/slicer_panel.png)![image alt](https://github.com/Vijay-Dhok/Calorie_Tracker/blob/0b5634fbb199b1c3d7977af22b804080c2fa67a3/slicer_panel_show.png)
 
 
 
@@ -47,7 +47,7 @@ These buttons create a more interactive and intuitive experience, allowing users
 **1]Nutrient Intake KPIs:**
 
 
-![image alt](https://github.com/Vijay-Dhok/Calorie_Tracker/blob/f0481a21ddea240ff64cc8dd4127161f108390c7/kpi.png)
+![image alt](https://github.com/Vijay-Dhok/Calorie_Tracker/blob/0b5634fbb199b1c3d7977af22b804080c2fa67a3/kpi_new.png)
 
 
 *Show Actual Intake vs. Goal
@@ -72,7 +72,7 @@ This visual system helps you quickly identify which nutrients are on track and w
 
 
 
-![image alt](https://github.com/Vijay-Dhok/Calorie_Tracker/blob/f0481a21ddea240ff64cc8dd4127161f108390c7/Carb%20protein%20fat%20intake%20in%20kcal.png)
+![image alt](https://github.com/Vijay-Dhok/Calorie_Tracker/blob/0b5634fbb199b1c3d7977af22b804080c2fa67a3/line_chart_fpc.png)
 
 
 
@@ -95,7 +95,7 @@ This visualization helps evaluate whether you're on track, overconsuming, or und
 
 
 
-![image alt](https://github.com/Vijay-Dhok/Calorie_Tracker/blob/f0481a21ddea240ff64cc8dd4127161f108390c7/Tables.png)
+![image alt](https://github.com/Vijay-Dhok/Calorie_Tracker/blob/0b5634fbb199b1c3d7977af22b804080c2fa67a3/top3.png)
 
 
 
@@ -111,7 +111,7 @@ Fats: Eggs, Ghee, Oil
 
 
 
-![image alt](https://github.com/Vijay-Dhok/Calorie_Tracker/blob/f0481a21ddea240ff64cc8dd4127161f108390c7/Percentage%20distribution%20of%20calories%20by%20day.png)
+![image alt](https://github.com/Vijay-Dhok/Calorie_Tracker/blob/0b5634fbb199b1c3d7977af22b804080c2fa67a3/donut.png)
 
 
 
@@ -129,7 +129,7 @@ Visual breakdown of calorie contribution from each macro-nutrient on a specific 
 
 
 
-![image alt](https://github.com/Vijay-Dhok/Calorie_Tracker/blob/f0481a21ddea240ff64cc8dd4127161f108390c7/Distribution%20of%20calories%20by%20meal.png)
+![image alt](https://github.com/Vijay-Dhok/Calorie_Tracker/blob/0b5634fbb199b1c3d7977af22b804080c2fa67a3/bar%20chart.png)
 
 Distribution of total calorie intake by meal type: Dinner, Lunch, Snacks, Breakfast
 
@@ -143,7 +143,7 @@ Distribution of total calorie intake by meal type: Dinner, Lunch, Snacks, Breakf
 
 
 
-![image alt](https://github.com/Vijay-Dhok/Calorie_Tracker/blob/f0481a21ddea240ff64cc8dd4127161f108390c7/weight%20increase.png)
+![image alt](https://github.com/Vijay-Dhok/Calorie_Tracker/blob/0b5634fbb199b1c3d7977af22b804080c2fa67a3/weight.png)
 
 Day-wise analysis of weight gain/loss trends in kg to correlate with calorie intake.
 
